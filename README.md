@@ -1,7 +1,7 @@
 # Acl redis - One C++ redis client library in Acl
 
 ## 0. Introduction
-The redis module in Acl project (https://github.com/acl-dev/) is a powerful redis client library with higth performance, rich interface and easy to use. There are more than 13 C++ classes and over 150 commands in Acl redis, including STRING, HASH, LIST, SET, ZSET, HyperLogLog, PUBSUB, STREAM, TRANSACTION, SCRIPT, CONNECTION, SERVER, etc. User using Acl redis doesn't need care about network comminucation, redis protocol, hash slots caching, etc., just like using C++ STL standard interface. You can see the source codes in https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/src/redis, heads in https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/include/acl_cpp/redis, and many examples in https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/samples/redis can be found.
+The redis module in Acl project (https://github.com/acl-dev/acl) is a powerful redis client library with higth performance, rich interface and easy to use. There are more than 13 C++ classes and over 150 commands in Acl redis, including STRING, HASH, LIST, SET, ZSET, HyperLogLog, PUBSUB, STREAM, TRANSACTION, SCRIPT, CONNECTION, SERVER, etc. User using Acl redis doesn't need care about network comminucation, redis protocol, hash slots caching, etc., just like using C++ STL standard interface. You can see the source codes in https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/src/redis, heads in https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/include/acl_cpp/redis, and many examples in https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/samples/redis can be found.
 
 <hr>
 
