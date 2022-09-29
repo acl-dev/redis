@@ -278,8 +278,8 @@ main.o: main.cpp
 Open the VS projects, such as acl_cpp_vc2003.sln, acl_cpp_vc2008.sln, acl_cpp_vc2010.sln, acl_cpp_vc2012.sln, acl_cpp_vc2013.sln, acl_cpp_vc2015.sln, acl_cpp_vc2017.sln, or acl_cpp_vc2019.sln to  look at the redis samples project option setting.
 
 ## 4. Reference
-- Acl redis headers: [Redis include files](../../include/acl_cpp/redis/)
-- Acl redis source: [Redis source files](../../src/redis/)
+- Acl redis headers: [Redis include files](https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/include/acl_cpp/redis)
+- Acl redis source: [Redis source files](https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/src/redis)
 - More examples: See examples in the current directory
 ## 5. About Acl
-- See [About Acl](../../../README.md)
+- See [About Acl](https://github.com/acl-dev/acl)
