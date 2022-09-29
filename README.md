@@ -280,6 +280,6 @@ Open the VS projects, such as acl_cpp_vc2003.sln, acl_cpp_vc2008.sln, acl_cpp_vc
 ## 4. Reference
 - Acl redis headers: [Redis include files](https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/include/acl_cpp/redis)
 - Acl redis source: [Redis source files](https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/src/redis)
-- More examples: See examples in the current directory
+- More examples: [Redis samples](https://github.com/acl-dev/acl/tree/master/lib_acl_cpp/samples/redis)
 ## 5. About Acl
 - See [About Acl](https://github.com/acl-dev/acl)
